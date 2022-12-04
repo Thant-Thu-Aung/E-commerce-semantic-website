@@ -1,6 +1,10 @@
 # E-commerce-semantic-website
 This is my assignment code for Semantic Data Technologies.
 
+How to check ontology design and open OWL file:
+
+Protege software is required to open this file.
+
 How to check source code:
 
 Extract "Ecommerece.zip" and open php files to check the codes.
