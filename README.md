@@ -1,6 +1,10 @@
 # E-commerce-semantic-website
 This is my assignment code for Semantic Data Technologies.
 
+How to check source code:
+
+Extract "Ecommerece.zip" and open php files to check the codes.
+
 How to use:
 
 Make sure to install xammp control panel software.
